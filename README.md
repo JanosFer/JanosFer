@@ -1,6 +1,6 @@
 
 ## Bem-Vindo(a) ao Perfil do Jonas Ferreira 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 <img align="right" width="300" src=https://github.com/JanosFer/JanosFer/assets/132403287/4cb74990-d872-4803-bd04-770042475d71>
 
 ### Olá, Eu sou o Jonas 👋
@@ -36,4 +36,4 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/JanosFer/count.svg" />  
 </p>
-<img width=100% <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c0000&height=120&section=footer"/>
+<img width=100% <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
