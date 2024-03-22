@@ -6,7 +6,7 @@
 ### Olá, Eu sou o Jonas 👋
 
 - ​🎓​ Estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Fatec Zona Leste
-- ✏️​ Estudando neste momento <strong><i>Java, PHP e SQL</i></strong> na Alura
+- ✏️​ Estudando neste momento <strong><i>Java e SQL</i></strong> na Alura
 - ​💭​ Em Busca De Novas Experiências!
   
 ## Onde me contactar
