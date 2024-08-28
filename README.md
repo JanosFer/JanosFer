@@ -5,7 +5,7 @@
 
 ### Olá, Eu sou o Jonas 👋
 
-- ​🎓​ Estou cursando o 3° Bimestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na Fatec Zona Leste
+- ​🎓​ Estou cursando o 3° Semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na Fatec Zona Leste
 - 👨🏻‍💻 Estudando neste momento <strong><i>Java, SQL, AWS e Estrutura de Dados</i></strong>
 - ​💭​ Em Busca De Novas Experiências!
   
